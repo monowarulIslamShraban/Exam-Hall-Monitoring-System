@@ -1,7 +1,3 @@
-Certainly! Here's an enhanced and professional README for the [Exam-Hall-Monitoring-System](https://github.com/ShrabanMI/Exam-Hall-Monitoring-System) project:
-
----
-
 # 📷 Exam Hall Monitoring System
 
 An AI-powered real-time surveillance system designed to detect and alert on rule violations in examination halls. This project utilizes an ESP32-S3 camera module for video streaming and a Python-based YOLOv3 object detection pipeline to identify suspicious activities.
@@ -110,15 +106,3 @@ Exam-Hall-Monitoring-System/
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE). ([README.md - Exam-Management-System - GitHub](https://github.com/Shahar-St/Exam-Management-System/blob/master/README.md?utm_source=chatgpt.com))
-
----
-
-## 🤝 Acknowledgements
-
-- **Course:** CSE461 - Introduction to Robotics
-- **Institution:** [Your University Name]
-- **Instructor:** [Instructor's Name] ([Automatic exam scheduling management system - GitHub](https://github.com/Phantom-Studiosad/Exam-Scheduling-Management-System_Web-App?utm_source=chatgpt.com))
-
----
-
-Feel free to customize this README further to align with your project's specifics and any additional features or acknowledgments you'd like to include. 
