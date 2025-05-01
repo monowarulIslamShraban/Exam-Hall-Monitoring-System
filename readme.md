@@ -57,7 +57,7 @@ Exam-Hall-Monitoring-System/
 1. **ESP32-S3 Camera Module:**
    - Open `CamWebServer.ino` in Arduino IDE.
    - Replace `WIFI_NAME` and `WIFI_PASSWORD` with your network credentials.
-   - Upload the sketch to the ESP32-S3 module. ([Student Exam Hall Management Project - GitHub](https://github.com/shyamg090/exam_hall_management?utm_source=chatgpt.com), [Vaishnavi15821/Examination-Supervision-System - GitHub](https://github.com/Vaishnavi15821/Examination-Supervision-System?utm_source=chatgpt.com))
+   - Upload the sketch to the ESP32-S3 module.
 
 2. **Python Environment:**
    - Ensure `yolov3.cfg`, `yolov3.weights`, and `coco.names` are in the same directory as `detector.py`.
@@ -77,7 +77,7 @@ Exam-Hall-Monitoring-System/
 ## ⚙️ How It Works
 
 1. **Video Streaming:**
-   - The ESP32-S3 module streams video over Wi-Fi. ([abrarhussien/examination-system--JS: demo - GitHub](https://github.com/abrarhussien/examination-system--JS?utm_source=chatgpt.com))
+   - The ESP32-S3 module streams video over Wi-Fi.
 
 2. **Processing & Detection:**
    - The Python script captures the video stream.
@@ -99,10 +99,6 @@ Exam-Hall-Monitoring-System/
 - **Cloud Integration:**
   - Store incident logs and images in cloud storage for centralized access.
 - **Multi-Camera Support:**
-  - Extend support for monitoring multiple examination halls simultaneously. ([muhammadraza77/Exam-Surveillance - GitHub](https://github.com/muhammadraza77/Exam-Surveillance?utm_source=chatgpt.com))
+  - Extend support for monitoring multiple examination halls simultaneously.
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). ([README.md - Exam-Management-System - GitHub](https://github.com/Shahar-St/Exam-Management-System/blob/master/README.md?utm_source=chatgpt.com))
