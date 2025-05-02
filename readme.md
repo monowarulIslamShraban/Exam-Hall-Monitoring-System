@@ -1,12 +1,12 @@
-# 📷 Exam Hall Monitoring System
+# Exam Hall Monitoring System
 
 An AI-powered real-time surveillance system designed to detect and alert on rule violations in examination halls. This project utilizes an ESP32-S3 camera module for video streaming and a Python-based YOLOv3 object detection pipeline to identify suspicious activities.
 
-> 🛠️ **Project completed as part of CSE461 (Intro to Robotics) in Fall 2024.**
+> **Project completed as part of CSE461 (Intro to Robotics) in Fall 2024.**
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The system captures live video streams from an ESP32-S3 camera module and processes them using a Python script that employs the YOLOv3 object detection algorithm. Upon detecting any rule violations, such as unauthorized objects or behaviors, the system:
 
@@ -15,7 +15,7 @@ The system captures live video streams from an ESP32-S3 camera module and proces
 
 ---
 
-## 🧰 Features
+## Features
 
 - **Live Video Streaming:** Real-time video feed from the ESP32-S3 camera.
 - **Object Detection:** Utilizes YOLOv3 to identify potential rule violations.
@@ -24,7 +24,7 @@ The system captures live video streams from an ESP32-S3 camera module and proces
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 Exam-Hall-Monitoring-System/
@@ -38,7 +38,7 @@ Exam-Hall-Monitoring-System/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -74,7 +74,7 @@ Exam-Hall-Monitoring-System/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Video Streaming:**
    - The ESP32-S3 module streams video over Wi-Fi.
@@ -90,7 +90,7 @@ Exam-Hall-Monitoring-System/
 
 ---
 
-## 🧪 Future Enhancements
+## Future Enhancements
 
 - **Enhanced Detection:**
   - Train YOLOv3 on custom datasets specific to examination scenarios.
