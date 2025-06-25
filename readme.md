@@ -2,7 +2,7 @@
 
 An AI-powered real-time surveillance system designed to detect and alert on rule violations in examination halls. This project utilizes an ESP32-S3 camera module for video streaming and a Python-based YOLOv3 object detection pipeline to identify suspicious activities.
 
-> **Project completed as part of CSE461 (Intro to Robotics) in Fall 2024.**
+> **Project completed as requirement of CSE461 (Intro to Robotics) in Fall 2024.**
 
 ---
 
