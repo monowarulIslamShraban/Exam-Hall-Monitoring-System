@@ -89,16 +89,3 @@ Exam-Hall-Monitoring-System/
      - The ESP32 module is signaled to activate the buzzer and illuminate the red LED.
 
 ---
-
-## Future Enhancements
-
-- **Enhanced Detection:**
-  - Train YOLOv3 on custom datasets specific to examination scenarios.
-- **Web Interface:**
-  - Develop a dashboard to monitor live feeds and review logged incidents.
-- **Cloud Integration:**
-  - Store incident logs and images in cloud storage for centralized access.
-- **Multi-Camera Support:**
-  - Extend support for monitoring multiple examination halls simultaneously.
-
----
